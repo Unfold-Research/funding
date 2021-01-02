@@ -1,5 +1,7 @@
 This repository holds all opportunities for funding academic projects that we're aware of, and our previous applications for some of them.
 
+Feel free to reach out to us to add your suggestions as well.
+
 **[Shuttleworth foundation](shuttleworthfoundation.org/)**<br/>
 > Year-long sponsored fellowship.<br/>
 > [Applications](https://shuttleworthfoundation.org/apply/) usually open Aug-Nov.<br>
