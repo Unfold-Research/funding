@@ -1,0 +1,7 @@
+Excerpts from the conversation with [Chris Hartgerink](https://shuttleworthfoundation.org/fellows/chris-hartgerink/) from [Liberate Science](https://www.libscie.org/), Shuttleworth's 2019 fellow.
+
+*Chris:*
+> Based on your application and video, I notice you focus very much on academia and technology, which I know they're quite tired of. What are you doing different from other platforms/projects? What makes you stand out in that sense? It is not the tech that is limiting after all, so what are you going to do about the non-technical part of it? That doesn't shine through for me. The power structures of publishers, institutions are not related to, which I know you've thought about!
+
+*Dragan:*
+> I was hoping to convey the ability to very quickly iterate on the technical realization (from idea to tech implementation) so that we can test and vary the main hypothesis a lot, and also a different and concrete growth strategy (the "startup mentality" thingy); as far as those "little advances" are concerned, for which I noticed they are after. Actually, I'm sad to hear that I may not have achieved that. And the general approach and the idea on the side of not so small advances/combos. Either way, it's useful feedback from your side!
