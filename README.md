@@ -3,8 +3,8 @@ This repository holds all opportunities for funding academic projects that we're
 Feel free to reach out to us to add your suggestions as well.
 
 **[Shuttleworth foundation](shuttleworthfoundation.org/)**<br/>
-> Year-long sponsored fellowship.<br/>
-> [Applications](https://shuttleworthfoundation.org/apply/) usually open Aug-Nov.<br>
+> Funding people who are unafraid to re-imagine the world and the way we live in it.<br>
+> [Flash grants](https://shuttleworthfoundation.org/fellows/flash-grants/) ($5k, via nominations) or a year-long sponsored fellowship. [Applications](https://shuttleworthfoundation.org/apply/) usually open Aug-Nov.<br>
 > Amount: $275k+
 
 **[Alfred P. Sloan foundation](https://sloan.org/)**
